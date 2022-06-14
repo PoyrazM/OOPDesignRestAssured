@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T01:28:39 TRT" name="Command line suite" finished-at="2022-06-15T01:28:42 TRT" duration-ms="3102">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T01:28:39 TRT" name="Command line test" finished-at="2022-06-15T01:28:42 TRT" duration-ms="3102">
+      <class name="GET.GET_1Test">
+        <test-method signature="get_1Test()[pri:0, instance:GET.GET_1Test@3c0a50da]" started-at="2022-06-15T01:28:41 TRT" name="get_1Test" finished-at="2022-06-15T01:28:42 TRT" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_1Test -->
+        <test-method signature="get_2Test()[pri:0, instance:GET.GET_1Test@3c0a50da]" started-at="2022-06-15T01:28:42 TRT" name="get_2Test" finished-at="2022-06-15T01:28:42 TRT" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_2Test -->
+      </class> <!-- GET.GET_1Test -->
+      <class name="BaseTest">
+        <test-method signature="setGet()[pri:1, instance:BaseTest@49070868]" started-at="2022-06-15T01:28:39 TRT" name="setGet" finished-at="2022-06-15T01:28:40 TRT" duration-ms="1641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setGet -->
+        <test-method signature="setPost()[pri:2, instance:BaseTest@49070868]" started-at="2022-06-15T01:28:40 TRT" name="setPost" finished-at="2022-06-15T01:28:41 TRT" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPost -->
+        <test-method signature="setPut()[pri:3, instance:BaseTest@49070868]" started-at="2022-06-15T01:28:41 TRT" name="setPut" finished-at="2022-06-15T01:28:41 TRT" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPut -->
+        <test-method signature="setPatch()[pri:4, instance:BaseTest@49070868]" started-at="2022-06-15T01:28:41 TRT" name="setPatch" finished-at="2022-06-15T01:28:41 TRT" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPatch -->
+        <test-method signature="setDelete()[pri:5, instance:BaseTest@49070868]" started-at="2022-06-15T01:28:41 TRT" name="setDelete" finished-at="2022-06-15T01:28:41 TRT" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDelete -->
+      </class> <!-- BaseTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

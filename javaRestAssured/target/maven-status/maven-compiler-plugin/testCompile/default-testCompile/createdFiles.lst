@@ -1,0 +1,7 @@
+DELETE\DELETEMethod1.class
+PATCH\PATCHMethod.class
+PUT\PUTMethod.class
+GET\GETMethod.class
+GET\GET_1Test.class
+POST\POSTMethod.class
+BaseTest.class
